@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+#
+# subtree command
+
+git pull 
