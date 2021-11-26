@@ -26,9 +26,10 @@ chmod +x ./script
 
 ## Git Subtree
 
-- Possible folder structure: 
+- Possible folder structure:
   - By day (numeric)
   - By topic
+- [ ] Make this read-only for now
 
 ## StackBlitz
 
