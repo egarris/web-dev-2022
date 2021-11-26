@@ -23,3 +23,13 @@ chmod +x ./script
 - markdown files, images, videos
 - code snippets
   - stackblitz.com
+
+## Git Subtree
+
+- Possible folder structure: 
+  - By day (numeric)
+  - By topic
+
+## StackBlitz
+
+- Upload your repoistory to [stackblitz](https://developer.stackblitz.com/docs/platform/importing-projects/)
