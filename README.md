@@ -1,8 +1,8 @@
 # 2111 Async Week Repo
 
-## Script
+## Setup
 
-`chmod +x script`
+Give execute permission: `chmod +x ./script`
 
 To pull: `./script`
 
@@ -12,4 +12,3 @@ Periodically run the script if you need to pull from the repository to pull from
 chmod +x ./script
 ./script
 ```
-
