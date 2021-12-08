@@ -15,3 +15,11 @@
   - By day (numeric)
   - By topic
 - [ ] Make this read-only for now
+
+
+Subtree commands
+
+```bash
+git subtree add --prefix 01-react-hooks react-hooks main --squash
+git subtree pull --prefix 01-react-hooks react-hooks main --squash
+```
