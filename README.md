@@ -28,4 +28,4 @@ chmod +x ./script
 
 ## Who we are
 
-[Sey Kim](www.linkedin.com/in/sey-kim)
+[@Sey Kim](www.linkedin.com/in/sey-kim)
