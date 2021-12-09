@@ -1,6 +1,6 @@
 # Web Development 2022
 
-Looking to learn web development? Become a better software engineer? Want to learn best practices?
+Looking to hone your skills as a web developer? Become a better software engineer? Learn modern industry-proven practices?
 
 We are a group of software engineers passionate about education! This repository contains source code for our live workshop held during December 2021. Our lineup consists of
 
