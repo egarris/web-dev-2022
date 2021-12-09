@@ -1,6 +1,6 @@
-import React from 'react';
-import { connect } from 'react-redux';
-import { Link } from 'react-router-dom';
+import React from 'react'
+import { connect } from 'react-redux'
+import { Link } from 'react-router-dom'
 
 const Todos = ({ todos }) => {
   return (
@@ -13,14 +13,14 @@ const Todos = ({ todos }) => {
             </h2>
             <p>assigned by {todo.assignee}</p>
           </li>
-        );
+        )
       })}
     </ul>
-  );
-};
+  )
+}
 
 const mapStateToProps = ({ todos }) => ({
-  todos
-});
+  todos,
+})
 
-export default connect(mapStateToProps)(Todos);
+export default connect(mapStateToProps)(Todos)
