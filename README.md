@@ -4,8 +4,8 @@ Looking to hone your skills as a web developer? Become a better software enginee
 
 We are a group of software engineers passionate about education! This repository contains source code for our live workshop held during December 2021. Our lineup consists of
 
-- React Hooks
-- Build a Portfolio with Gatsby.js
+- [React Hooks](https://github.com/iseykim/react-hooks)
+- [Portfolio Building with Gatsby.js](https://github.com/AmberAbreu/codyportfolio-boilerplate)
 - Git Workflow
 - Project Management
 - Wireframing and Prototyping in Figma
