@@ -1,15 +1,15 @@
-const Sequelize = require('sequelize');
-const conn = require('./conn');
+const Sequelize = require('sequelize')
+const conn = require('./conn')
 
 const Todo = conn.define('todos', {
   taskName: {
     type: Sequelize.STRING,
-    allowNull: false
+    allowNull: false,
   },
   assignee: {
     type: Sequelize.STRING,
-    allowNull: false
-  }
-});
+    allowNull: false,
+  },
+})
 
-module.exports = Todo;
+module.exports = Todo
