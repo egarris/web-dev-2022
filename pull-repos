@@ -1,0 +1,15 @@
+#! /usr/bin/env bash
+#
+# Git subtree command
+
+# TODO: handle if remote is already added
+git remote add -f react-hooks "https://github.com/iseykim/react-hooks"
+git remote add -f gatsby-tutorial "https://github.com/AmberAbreu/codyportfolio-boilerplate"
+
+# Git pull
+git subtree pull --prefix react-hooks react-hooks main --squash
+git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash
+
+
+
+ 

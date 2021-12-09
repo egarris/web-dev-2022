@@ -1,7 +1,0 @@
-#! /usr/bin/env bash
-#
-# subtree command
-
-# DO NOT RUN THE SCRIPT YET
-
-git pull 
