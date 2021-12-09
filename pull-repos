@@ -6,7 +6,8 @@
 git remote add -f react-hooks "https://github.com/iseykim/react-hooks"
 git remote add -f gatsby-tutorial "https://github.com/AmberAbreu/codyportfolio-boilerplate"
 
-# Git pull
+# Git subtree pull
+# TODO: handle error message (either by squashing or status code checking)
 git subtree pull --prefix react-hooks react-hooks main --squash
 git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash
 
