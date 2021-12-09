@@ -4,7 +4,7 @@ Looking to learn web development? Become a better software engineer? Want to lea
 
 We are a group of software engineers passionate about education! This repository contains source code for our live workshop held during December 2021. Our lineup consists of
 
-- React Hooks
+- [React Hooks](https://github.com/iseykim/react-hooks)
 - Build a Portfolio with Gatsby.js
 - Git Workflow
 - Project Management
