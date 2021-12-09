@@ -29,3 +29,5 @@ chmod +x ./script
 ## Who we are
 
 [@Sey Kim](www.linkedin.com/in/sey-kim)
+
+[@Danny Lahamar](www.linkedin.com/in/daniellahamar)
