@@ -1,10 +1,6 @@
 # Notes
 
-What is React Hooks?
-
 ## `useState`
-
-The simplest hook.
 
 Import `useState` from the `react` library. Using [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) syntax, we access state and a setter. 
 
