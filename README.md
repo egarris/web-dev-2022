@@ -2,7 +2,7 @@
 
 Looking to hone your skills as a web developer, become a stronger software engineer and implement modern industry practices?
 
-We are a group of software engineers passionate about education! This repository contains source code for our live workshop held during December 2021. Our lineup consists of
+We are a group of software engineers and teaching fellows [@Fullstack Academy](https://www.fullstackacademy.com/) passionate about education! This repository contains source code, assets and videos for our live workshops held on December 2021. Our lineup consists of
 
 - [React Hooks](https://github.com/iseykim/react-hooks)
 - [Portfolio Building with Gatsby.js](https://github.com/AmberAbreu/codyportfolio-boilerplate)
