@@ -1,6 +1,6 @@
 # Web Development 2022
 
-Looking to hone your skills as a web developer, become a better software engineer and learn modern industry-proven practices?
+Looking to hone your skills as a web developer, become a stronger software engineer and implement modern industry practices?
 
 We are a group of software engineers passionate about education! This repository contains source code for our live workshop held during December 2021. Our lineup consists of
 
@@ -27,7 +27,7 @@ chmod +x ./pull-repos
 
 ## Usage
 
-We will be doing live demos and pushing changes from our respective workshop and remote repository. As such, it is recommended to sandbox your own modification and exploration in a separate branch to keep the merge strategy straightforward. For instance, if you want to follow along with the `react-hooks` demo, make a branch first. At the end of the workshop, switch `main`, and run `pull-repos`.
+We will be doing live demos and pushing changes from our respective workshop and remote repository. As such, it is recommended to sandbox your own modification and exploration in a separate branch to keep the merge strategy straightforward. For instance, if you want to follow along with the `react-hooks` demo, make a branch first. At the end of the workshop, switch to `main`, and run `pull-repos`.
 
 
 ## Who we are
