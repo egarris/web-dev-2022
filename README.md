@@ -22,12 +22,11 @@ To pull: `./script`
 Periodically run the script if you need to pull from the repository to pull from the various remotes to your local.
 
 ```
-chmod +x ./script
-./script
+chmod +x ./pull-repos
+./pull-repos
 ```
 
 ## Who we are
 
-[@Sey Kim](www.linkedin.com/in/sey-kim)
-
-[@Danny Lahamar](www.linkedin.com/in/daniellahamar)
+- [@Sey Kim](www.linkedin.com/in/sey-kim)
+- [@Danny Lahamar](www.linkedin.com/in/daniellahamar)
