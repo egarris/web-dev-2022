@@ -15,16 +15,12 @@ We are a group of software engineers passionate about education! This repository
 
 ## Setup
 
-Give execute permission: `chmod +x ./script`
+Give execute permission: `chmod +x ./pull-repos`
 
-To pull: `./script`
+To pull: `./pull-repos`
 
-Periodically run the script if you need to pull from the repository to pull from the various remotes to your local.
+Periodically run the script if you need to pull from the repository to pull from the various remotes to your local. There will be merge commits. To use the default command, simply save and exit out of the popup.
 
-```
-chmod +x ./pull-repos
-./pull-repos
-```
 
 ## Who we are
 
