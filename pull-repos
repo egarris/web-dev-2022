@@ -7,7 +7,7 @@
 green="32"
 blue="34"
 bb="\e[1;${blue}m"
-_="\e[0m"
+end="\e[0m"
 
 
 # Suppresses error message should remotes already exist
@@ -16,10 +16,10 @@ git remote add -f gatsby-tutorial "https://github.com/AmberAbreu/codyportfolio-b
 
 # Git subtree pull
 
-printf "${bb}React Hooks${_}\n"
+printf "${bb}React Hooks${end}\n"
 git subtree pull --prefix react-hooks react-hooks main --squash 
 
-printf "${bb}Gatsby Tutorial${_}\n"
+printf "${bb}Gatsby Tutorial${end}\n"
 git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash
 
 
