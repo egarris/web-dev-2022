@@ -22,7 +22,7 @@ This repository uses `git subtree` to pull from remote repositories into a centr
 chmod +x ./pull-repos
 
 # Run the command
-`./pull-repos`
+./pull-repos
 ```
 
 ## Usage
