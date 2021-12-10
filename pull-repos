@@ -8,8 +8,8 @@ git remote add -f gatsby-tutorial "https://github.com/AmberAbreu/codyportfolio-b
 
 # Git subtree pull
 # TODO: handle error message (either by squashing or status code checking)
-git subtree pull --prefix react-hooks react-hooks main --squash --no-edit
-git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash --no-edit
+git subtree pull --prefix react-hooks react-hooks main --squash 
+git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash
 
 
 
