@@ -15,11 +15,19 @@ We are a group of software engineers passionate about education! This repository
 
 ## Setup
 
-Give execute permission: `chmod +x ./pull-repos`
+This repository uses `git subtree` to pull from remote repositories into a centralized origin. To pull latest changes, simply run the `git-pull` script. 
 
-To pull: `./pull-repos`
+```bash
+# Give execute permission
+chmod +x ./pull-repos
 
-Periodically run the script if you need to pull from the repository to pull from the various remotes to your local. There will be merge commits. To use the default command, simply save and exit out of the popup.
+# Run the command
+`./pull-repos`
+```
+
+## Usage
+
+We will be doing live demos and pushing changes from our respective workshop and remote repository. As such, it is recommended to sandbox your own modification and exploration in a separate branch to keep the merge strategy straightforward. For instance, if you want to follow along with the `react-hooks` demo, make a branch first. At the end of the workshop, switch `main`, and run `pull-repos`.
 
 
 ## Who we are
