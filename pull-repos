@@ -2,13 +2,24 @@
 #
 # Git subtree command
 
+# https://dev.to/ifenna__/adding-colors-to-bash-scripts-48g4
+
+green="32"
+blue="34"
+bb="\e[1;${blue}m"
+_="\e[0m"
+
+
 # Suppresses error message should remotes already exist
 git remote add -f react-hooks "https://github.com/iseykim/react-hooks" 2>/dev/null
 git remote add -f gatsby-tutorial "https://github.com/AmberAbreu/codyportfolio-boilerplate" 2>/dev/null
 
 # Git subtree pull
-# TODO: handle error message (either by squashing or status code checking)
+
+printf "${bb}React Hooks${_}\n"
 git subtree pull --prefix react-hooks react-hooks main --squash 
+
+printf "${bb}Gatsby Tutorial${_}\n"
 git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash
 
 
