@@ -2,14 +2,14 @@
 #
 # Git subtree command
 
-# TODO: handle if remote is already added
+# Suppresses error message should remotes already exist
 git remote add -f react-hooks "https://github.com/iseykim/react-hooks" 2>/dev/null
 git remote add -f gatsby-tutorial "https://github.com/AmberAbreu/codyportfolio-boilerplate" 2>/dev/null
 
 # Git subtree pull
 # TODO: handle error message (either by squashing or status code checking)
-git subtree pull --prefix react-hooks react-hooks main --squash
-git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash
+git subtree pull --prefix react-hooks react-hooks main --squash --no-edit
+git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash --no-edit
 
 
 
