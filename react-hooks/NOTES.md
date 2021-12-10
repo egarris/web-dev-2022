@@ -34,7 +34,7 @@ By clicking the button, `count` is incremented by 1. Since state is changed via 
 
 ## `useEffect`
 
-Analogous to the `componentDidMount` lifecycle method. Much more flexible, and not scoped to one life cycle: can emulate other lifecycle methods.
+Example below is analogous to `componentDidMount`:
 
 ```js
 useEffect(() => {
@@ -42,9 +42,7 @@ useEffect(() => {
 }, [])
 ```
 
-Takes in a callback function, and a dependency array. When the functional component mounts, the callback function in `useEffect` is run once, similar to `componentDidMount`.
-
-The empty array signifies that the callback function should run once. An another example should make the purpose of the dependency array clearer:
+Its parameters are a callback function and a dependency array. When the functional component mounts, the callback function is run once. The empty array signifies that the callback function should run once. Consider this example:
 
 ```js
 function Counter() {
@@ -63,15 +61,18 @@ function Counter() {
 }
 ```
 
-The flow goes something like this:
+### The Flow
 
 1. Counter is mounted
 2. Callback in `useEffect` is run
-3. When the user clicks on the button, `setCount` changes `count`
-4. Counter rerenders
-5. Since `count` is in the dependency array, `useEffect` is run
+3. When the user clicks on the button, `setCount` passes in the current `count` + 1
+4. `count` state is updated
+5. `<Counter />` rerenders
+6. Since `count` is in the dependency array, `useEffect` is run per `count` change
 
 **Try to take out count in the dependency array and observe what happens**
+
+A general rule of thumb: `useEffect` with an empty dependency array is analogous to `componentDidMount`.
 
 ## Multiple `useState`
 
