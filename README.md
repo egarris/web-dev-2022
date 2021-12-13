@@ -9,7 +9,7 @@ We are a group of software engineers and teaching fellows [@Fullstack Academy](h
 - Git Workflow
 - Project Management
 - Wireframing and Prototyping in Figma
-- Firebase
+- [Firebase](https://github.com/margaritadanshina/todo_firebase)
 - Ethics in Engineering
 - Patterns in Algorithm & Datastructure
 
