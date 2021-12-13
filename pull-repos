@@ -21,7 +21,3 @@ git subtree pull --prefix react-hooks react-hooks main --squash
 
 printf "${bb}Gatsby Tutorial${end}\n"
 git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash
-
-
-
- 
