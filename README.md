@@ -34,3 +34,4 @@ We will be doing live demos and pushing changes from our respective workshop and
 
 - [@Sey Kim](www.linkedin.com/in/sey-kim)
 - [@Danny Lahamar](www.linkedin.com/in/daniellahamar)
+- [@AmberAbreu](https://www.linkedin.com/in/amber-abreu/)
