@@ -15,7 +15,7 @@ We are a group of software engineers and teaching fellows [@Fullstack Academy](h
 
 ## Setup
 
-This repository uses `git subtree` to pull from remote repositories into a centralized origin. ~~To pull latest changes, simply run the `git-pull` script.~~ Simply `git pull` to get the latest update. The script is more for internal uses to keep up to sync with the children repositories (but feel free to dig around).
+This repository uses `git subtree` to pull from remote repositories into a centralized origin. ~~To pull latest changes, simply run the `pull-repos` script.~~ Simply `git pull` to get the latest update. The script is more for internal uses to keep up to sync with the children repositories (but feel free to dig around).
 
 ```bash
 # Give execute permission
