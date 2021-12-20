@@ -1,0 +1,27 @@
+body,
+html {
+    font-family: sans-serif;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.main {
+    margin-top: 80px;
+    margin-bottom: 180px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.todos {
+    text-align: center;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: lightGreen;
+    transition: 1s ease;
+}
