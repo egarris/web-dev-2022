@@ -35,3 +35,4 @@ We will be doing live demos and pushing changes from our respective workshop and
 - [@Sey Kim](https://linkedin.com/in/sey-kim)
 - [@Danny Lahamar](https://linkedin.com/in/daniellahamar)
 - [@Amber Abreu](https://www.linkedin.com/in/amber-abreu/)
+- [@Margarita Danshina](https://github.com/margaritadanshina)
