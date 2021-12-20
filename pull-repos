@@ -14,6 +14,7 @@ end="\e[0m"
 git remote add -f react-hooks "https://github.com/iseykim/react-hooks" 2>/dev/null
 git remote add -f gatsby-tutorial "https://github.com/AmberAbreu/codyportfolio-boilerplate" 2>/dev/null
 git remote add -f firebase "https://github.com/margaritadanshina/todo_firebase" 2>/dev/null
+git remote add -f problem-solving-patterns "https://github.com/toriekim/problem-solving-patterns" 2>/dev/null
 
 # Git subtree pull
 
@@ -25,3 +26,6 @@ git subtree pull --prefix gatsby-tutorial gatsby-tutorial main --squash
 
 printf "${bb}Firebase${end}\n"
 git subtree pull --prefix firebase firebase main --squash
+
+printf "${bb}Problem Solving Patterns${end}\n"
+git subtree pull --prefix problem-solving-patterns problem-solving-patterns main --squash
