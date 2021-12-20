@@ -3,6 +3,11 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+.dark-mode {
+  background: #232222;
+  color: rgb(198, 160, 10);
+}
+
 h1,
 h2,
 h3 {
