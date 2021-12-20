@@ -22,6 +22,9 @@ function Counter() {
 function CounterEffect() {
   const [count, setCount] = useState(0)
 
+  // useEffect can replace various life cycles
+  // componentDidMount -- empty []
+  // comoponentDidUpdate -- [count]
   useEffect(() => {
     console.log('%c CounterEffect running!', 'color: lightgreen')
   }, [count])

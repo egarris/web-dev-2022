@@ -2,7 +2,7 @@
 
 ## `useState`
 
-![img](./hooks/src/imgs/useState.webp)
+![img](./imgs/useState.webp)
 
 Simplest hook of them all. `useState` allows functional components to hold state. Import `useState` from the `react` library. Using [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) syntax, we access state and a setter. 
 
@@ -31,11 +31,11 @@ By clicking the button, `count` is incremented by 1. Since state is changed via 
 
 ## `useEffect`
 
-![img](./hooks/src/imgs/useEffect-1.webp)
+![img](./imgs/useEffect-1.webp)
 
 In the simplest cases, you can use `useEffect` to replace `componentDidMount`. It takes in two parameters: a callback function and a dependency array. When the functional component mounts, `useEffect` is run. The empty array signifies that the callback function should run once. 
 
-![img](./hooks/src/imgs/useEffect-2.webp)
+![img](./imgs/useEffect-2.webp)
 
 In the above example, `count` is included in the dependency array. Therefore, the callback function will run any time `count` changes.
 
