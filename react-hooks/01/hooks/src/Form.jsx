@@ -10,7 +10,7 @@ const Form = () => {
 
     if (e.target.name === 'name') setName(value)
     else setAge(value)
-  
+
     console.log('%c value:', 'color: palevioletred', value)
   }
 

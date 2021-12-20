@@ -10,6 +10,7 @@ function Counter() {
       <button
         onClick={() => {
           setCount(count + 1)
+          console.log('%c Counter onClick, count:', 'color: skyblue', count)
         }}
       >
         Increment
@@ -32,7 +33,11 @@ function CounterEffect() {
       <button
         onClick={() => {
           setCount(count + 1)
-          console.log('%c onClick, count:', 'color: skyblue', count)
+          console.log(
+            '%c CounterEffect onClick, count:',
+            'color: skyblue',
+            count
+          )
         }}
       >
         Increment

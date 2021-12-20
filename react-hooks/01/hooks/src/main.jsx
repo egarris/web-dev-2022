@@ -3,7 +3,10 @@ import ReactDOM from 'react-dom'
 import 'virtual:windi.css'
 import './index.css'
 import { Counter, CounterEffect } from './Counters.jsx'
-import { Form } from './Form.jsx'
+import Counter_useReducer from './Counter_useReducer.jsx'
+import { Form } from './Form.jsx';
+import ToggleTheme from './ToggleTheme'
+
 
 export default function Main({ children }) {
   return (
@@ -23,6 +26,8 @@ ReactDOM.render(
         <Counter />
         <CounterEffect />
         <Form />
+        <Counter_useReducer />
+        <ToggleTheme />
       </div>
     </Main>
   </React.StrictMode>,
