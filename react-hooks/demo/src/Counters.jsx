@@ -27,7 +27,7 @@ function CounterEffect() {
   // comoponentDidUpdate -- [count]
   useEffect(() => {
     console.log('%c CounterEffect running!', 'color: lightgreen')
-  }, [count])
+  }, [])
 
   return (
     <div>
