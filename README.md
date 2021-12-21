@@ -1,5 +1,7 @@
 # React Hooks Workshop
 
+Recorded Lecture [▶️](https://www.youtube.com/watch?v=mkvhikFmA5c)
+
 - [@Sey Kim](https://linkedin.com/in/sey-kim)
 - [@Savion Sweeney](https://linkedin.com/in/savion-sweeney)
 - [@Danny Lahamar](https://www.linkedin.com/in/daniellahamar/)
