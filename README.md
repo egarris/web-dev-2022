@@ -4,10 +4,12 @@ Looking to hone your skills as a web developer, become a stronger software engin
 
 We are a group of software engineers and teaching fellows [@Fullstack Academy](https://www.fullstackacademy.com/) passionate about education! This repository contains source code, assets and videos for our live workshops held on December 2021. Our lineup consists of
 
+<div style="display: flex; justify-content: center">
 <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 - [React Hooks](https://github.com/iseykim/react-hooks) [▶️](https://www.youtube.com/watch?v=mkvhikFmA5c)
 - [Portfolio Building with Gatsby.js](https://github.com/AmberAbreu/codyportfolio-boilerplate)
