@@ -1,7 +1,38 @@
-import React from "react";
+import React, { useState } from "react";
 import firebase from "../util/firebase";
 
+
 export default function Todo({ todo }) {
+//edit, marked as done, delete
+  const [newTitle, setNewTitle] = useState("");
+
+  const deleteTodo = () => {
+    const todoRef = firebase.database().ref("Todo").child(todo.id);
+    todoRef.remove()
+  }
+
+  const completeTodo = () => {
+    const todoRef = firebase.database().ref("Todo").child(todo.id);
+    todoRef.update({
+      complete: !todo.complete
+    })
+  };
+
+  const editTodo = () => {
+    const todoRef = firebase.database().ref("Todo").child(todo.id);
+    todoRef.update({
+      title: newTitle
+    })
+  };
+
+  const handleChange = (e) => {
+    if(todo.complete === true) {
+      setNewTitle(todo.title)
+    } else {
+      todo.title = "";
+      setNewTitle(e.target.value)
+    }
+  }
 
   return (
     <li className={todo.complete ? "complete" : "list-item"}>
