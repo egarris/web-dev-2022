@@ -37,3 +37,5 @@ We will be doing live demos and pushing changes from our respective workshop and
 - [@Amber Abreu](https://www.linkedin.com/in/amber-abreu/)
 - [@Margarita Danshina](https://github.com/margaritadanshina)
 - [@Victoria Kim](https://linkedin.com/in/victoriakim20)
+- [@Eric Nguyen](https://www.linkedin.com/in/ericdaonguyen/)
+- [@Greg Schotte](https://www.linkedin.com/in/greg-schotte/)
