@@ -4,7 +4,7 @@ Looking to hone your skills as a web developer, become a stronger software engin
 
 We are a group of software engineers and teaching fellows [@Fullstack Academy](https://www.fullstackacademy.com/) passionate about education! This repository contains source code, assets and videos for our live workshops held on December 2021. Our lineup consists of
 
-- [React Hooks](https://github.com/iseykim/react-hooks)
+- [React Hooks](https://github.com/iseykim/react-hooks) [▶️](https://www.youtube.com/watch?v=mkvhikFmA5c)
 - [Portfolio Building with Gatsby.js](https://github.com/AmberAbreu/codyportfolio-boilerplate)
 - [Git Workflow](https://github.com/andrea-e-c/git-workflow)
 - Project Management
