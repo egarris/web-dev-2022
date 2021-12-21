@@ -19,7 +19,7 @@ We are a group of software engineers and teaching fellows [@Fullstack Academy](h
 - [Wireframing and Prototyping in Figma](./wireframe-figma/README.md) 
 - [Firebase](https://github.com/margaritadanshina/todo_firebase)
 - Ethics in Engineering
-- [Patterns in Algorithm & Datastructure](https://github.com/toriekim/problem-solving-patterns)
+- [Patterns in Algorithm & Datastructure](https://github.com/toriekim/problem-solving-patterns) - Victoria Kim
 
 ## Setup
 
