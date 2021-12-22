@@ -17,7 +17,7 @@ We are a group of software engineers and teaching fellows [@Fullstack Academy](h
 - [Git Workflow](https://github.com/andrea-e-c/git-workflow)
 - Project Management
 - [Wireframing and Prototyping in Figma](./wireframe-figma/README.md) 
-- [Firebase](https://github.com/margaritadanshina/todo_firebase)
+- [Firebase](https://github.com/margaritadanshina/todo_firebase) - Margarita Danshina
 - Ethics in Engineering
 - [Patterns in Algorithm & Datastructure](https://github.com/toriekim/problem-solving-patterns) - Victoria Kim
 
