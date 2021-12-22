@@ -15,7 +15,7 @@ We are a group of software engineers and teaching fellows [@Fullstack Academy](h
 - [React Hooks](https://github.com/iseykim/react-hooks) [▶️](https://www.youtube.com/watch?v=mkvhikFmA5c) - Danny Lahamar, Savion Sweeney, Sey Kim 
 - [Portfolio Building with Gatsby.js](https://github.com/AmberAbreu/codyportfolio-boilerplate) - Amber Abreu
 - [Git Workflow](https://github.com/andrea-e-c/git-workflow) - Alexandra Marks, Ashley Williams, Andrea Childress
-- [Project Management](https://github.com/FullstackAcademy/intro-to-pm/) - Laura Buffington, Sarah Sheppard
+- [Project Management](https://youtu.be/rnIm4zFuBoE)  - Laura Buffington, Sarah Sheppard
 - [Wireframing and Prototyping in Figma](./wireframe-figma/README.md) 
 - [Firebase](https://github.com/margaritadanshina/todo_firebase) [▶️](https://youtu.be/3Yxjjc23uds) - Margarita Danshina
 - Ethics in Engineering
