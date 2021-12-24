@@ -38,3 +38,4 @@ We will be doing live demos and pushing changes from our respective workshop and
 - [@Alexandra Marks](https://www.linkedin.com/in/alexandravmarks/)
 - [@Ashley Williams](https://www.linkedin.com/in/ashley-williams011/)
 - [@Andrea Childress](https://www.linkedin.com/in/andrea-childress/)
+- [@Savion Sweeney](https://www.linkedin.com/in/savion-sweeney/)
