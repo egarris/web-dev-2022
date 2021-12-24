@@ -1,6 +1,10 @@
 # React Hooks Workshop
 
-Recorded Lecture [▶️](https://www.youtube.com/watch?v=mkvhikFmA5c)
+Recorded Lecture 
+1. [▶️](https://www.youtube.com/watch?v=mkvhikFmA5c)
+2. [▶️](https://www.youtube.com/watch?v=PUPKNlwsMbM&t=0s)
+
+Connect with us:
 
 - [@Sey Kim](https://linkedin.com/in/sey-kim)
 - [@Savion Sweeney](https://linkedin.com/in/savion-sweeney)
