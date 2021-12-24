@@ -12,13 +12,13 @@ We are a group of software engineers and teaching fellows [@Fullstack Academy](h
 </div>
 <br />
 
-- [React Hooks](https://github.com/iseykim/react-hooks) [▶️](https://www.youtube.com/watch?v=mkvhikFmA5c) - Danny Lahamar, Savion Sweeney, Sey Kim 
+- [React Hooks](https://github.com/iseykim/react-hooks) 1: [▶️](https://www.youtube.com/watch?v=mkvhikFmA5c) 2: [▶️](https://youtu.be/PUPKNlwsMbM) - Danny Lahamar, Savion Sweeney, Sey Kim 
 - [Portfolio Building with Gatsby.js](https://github.com/AmberAbreu/codyportfolio-boilerplate) [▶️](https://www.youtube.com/watch?v=rHO82MY4OiA) - Amber Abreu
 - [Git Workflow](https://github.com/andrea-e-c/git-workflow) [▶️](https://www.youtube.com/watch?v=9DITha2JTUc) - Alexandra Marks, Ashley Williams, Andrea Childress
-- [Project Management](https://youtu.be/rnIm4zFuBoE)  - Laura Buffington, Sarah Sheppard
-- [Wireframing and Prototyping in Figma](./wireframe-figma/README.md) 
+- Project Management [▶️](https://youtu.be/rnIm4zFuBoE) - Laura Buffington, Sarah Sheppard
+- [Wireframing and Prototyping in Figma](./wireframe-figma/README.md) - Devonne Walker
 - [Firebase](https://github.com/margaritadanshina/todo_firebase) [▶️](https://youtu.be/3Yxjjc23uds) - Margarita Danshina
-- [Ethics in Engineering](https://) - 
+- [Ethics in Engineering](https://) - Greg Schotte, Eric Nguyen
 - [Patterns in Algorithm & Datastructure](https://github.com/toriekim/problem-solving-patterns) [▶️](https://youtu.be/v3WA5rghRkc) - Victoria Kim
 
 ## Usage
@@ -38,3 +38,4 @@ We will be doing live demos and pushing changes from our respective workshop and
 - [@Alexandra Marks](https://www.linkedin.com/in/alexandravmarks/)
 - [@Ashley Williams](https://www.linkedin.com/in/ashley-williams011/)
 - [@Andrea Childress](https://www.linkedin.com/in/andrea-childress/)
+- [@Savion Sweeney](https://www.linkedin.com/in/savion-sweeney/)
