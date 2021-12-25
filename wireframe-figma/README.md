@@ -3,10 +3,12 @@
 <details><summary>Lecture</summary>
   
 - [Slides of the lecture][slides]
-- The Figma
-- Recorded video
+- [The Figma][figma]
+- [Recorded video][video]
 
 [slides]: https://docs.google.com/presentation/d/1k1ym1jv9eiXRSjAxAD0aPBWxThR5oh9pNubeCKcm6dQ/edit?usp=sharing
+[video]: https://youtu.be/tKLgeON6WxE
+[figma]: https://www.figma.com/file/2s3c1t6Z9hNDZkVXGz4WA7/Figma-Lecture?node-id=0%3A1
 </details>
 
 <details><summary>Plugins</summary>
