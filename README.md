@@ -20,7 +20,7 @@ We are a group of software engineers and teaching fellows [@Fullstack Academy](h
 | Project Management | Laura Buffington, Sarah Sheppard | [▶️](https://youtu.be/rnIm4zFuBoE) |
 | [Wireframing and Prototyping in Figma](./wireframe-figma/README.md) | Devonne Walker | [▶️] |
 | [Firebase](https://github.com/margaritadanshina/todo_firebase) | Margarita Danshina | [▶️](https://youtu.be/3Yxjjc23uds) |
-| Ethics in Engineering | Greg Schotte, Eric Nguyen | [▶️](https://youtu.be/8GSq6u-d_OM) |
+| [Ethics in Engineering](https://github.com/iseykim/web-dev-2022/tree/main/engineering-ethics) | Greg Schotte, Eric Nguyen | [▶️](https://youtu.be/8GSq6u-d_OM) |
 | [Patterns in Algorithm & Datastructure](https://github.com/toriekim/problem-solving-patterns) | Victoria Kim | [▶️](https://youtu.be/v3WA5rghRkc) |
 
 ## Usage
