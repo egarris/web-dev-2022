@@ -15,7 +15,7 @@ We are a group of software engineers and teaching fellows [@Fullstack Academy](h
 | Workshop   | Lecturers     | Links |
 | -------- | ------------- | ----- |
 | [React Hooks](https://github.com/iseykim/react-hooks) | [Danny Lahamar](https://linkedin.com/in/daniellahamar), [Savion Sweeney](https://www.linkedin.com/in/savion-sweeney/), [Sey Kim](https://linkedin.com/in/sey-kim)  | 1: [▶️](https://www.youtube.com/watch?v=mkvhikFmA5c) 2: [▶️](https://youtu.be/PUPKNlwsMbM) |
-| [Portfolio Building with Gatsby.js](https://github.com/AmberAbreu/codyportfolio-boilerplate) | [Amber Abreu](https://www.linkedin.com/in/amber-abreu/)      | [▶️](https://www.youtube.com/watch?v=9DITha2JTUc)   |
+| [Portfolio Building with Gatsby.js](https://github.com/AmberAbreu/codyportfolio-boilerplate) | [Amber Abreu](https://www.linkedin.com/in/amber-abreu/)      | [▶️](https://www.youtube.com/watch?v=rHO82MY4OiA)   |
 | [Git Workflow](https://github.com/andrea-e-c/git-workflow) |  Alexandra Marks, Ashley Williams, Andrea Childress | [▶️](https://www.youtube.com/watch?v=9DITha2JTUc) |
 | Project Management | Laura Buffington, Sarah Sheppard | [▶️](https://youtu.be/rnIm4zFuBoE) |
 | [Wireframing and Prototyping in Figma](./wireframe-figma/README.md) | Devonne Walker | [▶️] |
