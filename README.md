@@ -26,6 +26,8 @@ We are a group of software engineers and teaching fellows [@Fullstack Academy](h
 | [Ethics in Engineering](https://github.com/iseykim/web-dev-2022/tree/main/engineering-ethics) | Greg Schotte, Eric Nguyen | [▶️](https://youtu.be/8GSq6u-d_OM) |
 | [Patterns in Algorithm & Datastructure](https://github.com/toriekim/problem-solving-patterns) | Victoria Kim | [▶️](https://youtu.be/v3WA5rghRkc) |
 
+![workshop](./_readme.gif)
+
 ## Usage
 
 We will be doing live demos and pushing changes from our respective workshop and remote repository. As such, it is recommended to sandbox your own modification and exploration in a separate branch to keep the merge strategy straightforward. Simply `git pull` to keep up with changes.
