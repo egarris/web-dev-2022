@@ -2,7 +2,7 @@
 
 Looking to hone your skills as a web developer, become a stronger software engineer and implement modern industry practices?
 
-We are a group of software engineers and teaching fellows [@Fullstack Academy](https://www.fullstackacademy.com/) passionate about education! This repository contains source code, assets and videos for our live workshops held on December 2021. Our lineup consists of
+We are a group of software engineers and teaching fellows [@Fullstack Academy](https://www.fullstackacademy.com/) passionate about education! This repository contains source code, assets and videos for our live workshops held on December 2021.
 
 <div style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
