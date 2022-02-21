@@ -1,54 +1,33 @@
-import React, { Component } from 'react';
+import React, { useState } from 'react';
 import { createTodo } from '../store/todos';
-import { connect } from 'react-redux';
-import { Link } from 'react-router-dom';
+import { useDispatch } from 'react-redux';
+import { Link, useHistory } from 'react-router-dom';
 
-class CreateTodo extends Component {
-  constructor() {
-    super();
-    this.state = {
-      taskName: '',
-      assignee: ''
-    };
+const CreateTodo = () => {
+  const [taskName, setTaskName] = useState('')
+  const [assignee, setAssignee] = useState('')
 
-    this.handleChange = this.handleChange.bind(this);
-    this.handleSubmit = this.handleSubmit.bind(this);
+  const dispatch = useDispatch()
+
+  const history = useHistory
+
+  const handleSubmit = (evt) => {
+    evt.preventDefault()
+    dispatch(createTodo({taskName, assignee}, history))
   }
 
-  handleChange(evt) {
-    this.setState({
-      [evt.target.name]: evt.target.value
-    });
-  }
-
-  handleSubmit(evt) {
-    evt.preventDefault();
-    this.props.createTodo({ ...this.state });
-  }
-
-  render() {
-    const { assignee, taskName } = this.state;
-    const { handleSubmit, handleChange } = this;
-
-    return (
-      <form id='todo-form' onSubmit={handleSubmit}>
+  return (
+    <form id='todo-form' onSubmit={handleSubmit}>
         <label htmlFor='taskName'>Task Name:</label>
-        <input name='taskName' onChange={handleChange} value={taskName} />
+        <input name='taskName' onChange={(e) => setTaskName(e.target.value)} value={taskName} />
 
         <label htmlFor='assignee'>Assign To:</label>
-        <input name='assignee' onChange={handleChange} value={assignee} />
+        <input name='assignee' onChange={(e) => setAssignee(e.target.value)} value={assignee} />
 
         <button type='submit'>Submit</button>
         <Link to='/'>Cancel</Link>
       </form>
-    );
-  }
+  )
 }
 
-const mapDispatchToProps = (dispatch, { history }) => ({
-  createTodo: (todo) => dispatch(createTodo(todo, history))
-});
-
-export default connect(null, mapDispatchToProps)(CreateTodo);
-
-
+export default CreateTodo

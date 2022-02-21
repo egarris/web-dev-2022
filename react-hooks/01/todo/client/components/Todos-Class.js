@@ -1,14 +1,8 @@
 import React from 'react';
-import { useSelector } from 'react-redux';
+import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 
-const Todos = () => {
-  const { todos } = useSelector((state) => {
-    return {
-      todos: state.todos
-    }
-  })
-
+const Todos = ({ todos }) => {
   return (
     <ul>
       {todos.map((todo) => {
@@ -25,4 +19,8 @@ const Todos = () => {
   );
 };
 
-export default Todos;
+const mapStateToProps = ({ todos }) => ({
+  todos
+});
+
+export default connect(mapStateToProps)(Todos);
